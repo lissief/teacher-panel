@@ -1,0 +1,11 @@
+.button {
+    text-transform: uppercase;
+    font-size: 44px;
+    color: #fff;
+    font-family: 'Squada One', cursive;
+    font-weight: 400;
+    padding: 10px 75px;
+    background-color: #0c78ba;
+    text-decoration: none;
+    margin: 20px;
+}
